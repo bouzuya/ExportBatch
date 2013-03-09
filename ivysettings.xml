@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ivysettings>
+    <settings defaultResolver="chain" />
+    <resolvers>
+        <chain name="chain">
+            <ibiblio name="central" m2compatible="true" />
+            <ibiblio name="svnkit" m2compatible="true" root="http://maven.tmatesoft.com/content/repositories/releases/" />
+        </chain>
+    </resolvers>
+</ivysettings>
+
+
+
